@@ -14,7 +14,7 @@ mixer.music.load('space.ogg')
 mixer.music.play()
 fire_sound = mixer.Sound('fire.ogg')
 
-#нам нужны такие картинки:
+#нам нужны такие картинки:123445345345
 img_back = "galaxy.jpg" #фон игры
 img_bullet = "bullet.png" #пуля
 img_hero = "rocket.png" #герой
